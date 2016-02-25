@@ -41,13 +41,13 @@ When evaluated, this will print
 
 
 ## Usage
-python brainfunction.py <source_file.b>
+python brainfunction.py source_file.b
 
 
 ## Functions
 Functions in brainfunction are defined to be one line of text.  "Wait a minute, I like to add newlines to my code to
 split it into logical sections!" you say.  Oh, sorry, you were looking for an easy-to-use language?  You must have
-us confused for [someone](https://www.python.org/)[else](https://www.ruby-lang.org/en/).  "B-b-but my comments have
+us confused for [someone](https://www.python.org/) [else](https://www.ruby-lang.org/en/).  "B-b-but my comments have
 the letter v in them!"  Guess you're in for a wery wexing time.  Don't watch *V For Vendetta* if you plan on using
 brainfunction.
 
@@ -58,8 +58,8 @@ is encountered.
 #### Calling functions
 To call a function, use the symbol `:`.  The function currently pointed to by the function pointer will be called.
 The value in the current cell will be passed to it as an argument.  This argument is placed in cell 0 of the callee.
-Whatever value the callee returns will be placed in the current cell, *gasp* overwriting the previous value.  See note
-in previous section if section if this causes you consternation.
+Whatever value the callee returns will be placed in the current cell, *gasp* overwriting the previous value.  Cf.
+previous section if section if this causes you consternation.
 
 The function pointer, instruction pointer, and code pointer all initialized to 0.
 
