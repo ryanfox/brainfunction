@@ -71,3 +71,7 @@ remember the return symbol because it looks like function call but the bottom do
 
 ## Roadmap
 I'm not sure what the next version of brainfunction will look like, but I'm definitely naming it higher-brainfunction.
+Maybe better error messages, maybe a debugger.
+
+Writeup can be found at
+[https://foxrow.com/brainfunction-brainfuck-with-functions/](https://foxrow.com/brainfunction-brainfuck-with-functions/)
