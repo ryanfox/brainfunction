@@ -48,8 +48,8 @@ python brainfunction.py source_file.b
 Functions in brainfunction are defined to be one line of text.  "Wait a minute, I like to add newlines to my code to
 split it into logical sections!" you say.  Oh, sorry, you were looking for an easy-to-use language?  You must have
 us confused for [someone](https://www.python.org/) [else](https://www.ruby-lang.org/en/).  "B-b-but my comments have
-the letter v in them!"  Guess you're in for a wery wexing time.  Don't watch *V For Vendetta* if you plan on using
-brainfunction.
+the letter v in them!"  Just like many other languages, `;` ends a line.  If that is the last instruction in your
+function proper, any remaining characters will be unreachable.
 
 Evaluation always starts with the first function in a file, and continues until that function terminates or an error
 is encountered.
