@@ -41,7 +41,8 @@ When evaluated, this will print
 
 
 ## Usage
-python brainfunction.py source_file.b
+
+    python brainfunction.py source_file.b
 
 
 ## Functions
