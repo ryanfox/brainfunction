@@ -75,4 +75,4 @@ I'm not sure what the next version of brainfunction will look like, but I'm defi
 Maybe better error messages, maybe a debugger.
 
 The v0.1 release writeup can be found at
-[https://foxrow.com/brainfunction-brainfuck-with-functions/](https://foxrow.com/brainfunction-brainfuck-with-functions/)
+[https://foxrow.com/brainfunction-a-new-programming-language](https://foxrow.com/brainfunction-a-new-programming-language)
